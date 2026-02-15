@@ -57,3 +57,5 @@ Computers and servers use temperature sensors to prevent overheating.
 Fans or cooling systems are activated when temperatures exceed safe limits.
 
 OUTPUT:
+
+<img width="1297" height="724" alt="Image" src="https://github.com/user-attachments/assets/91b7e43a-127f-4481-b5fc-ccc4092c9357" />
